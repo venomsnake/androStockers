@@ -7,6 +7,15 @@
             "github": "https://github.com/vedant8177",
             "telegram": "https://t.me/vedantdev", //optional
             "profile": "https://i.ibb.co/pdwBkwN/002113.jpg"
-        }
+        },
+        {
+            "name": "VenomSnake",
+            "alias": "NONE",
+            "role": "NONE",
+            "github": "https://github.com/venomsnake",
+            "telegram": "t.me/venomsnakee",
+            "profile": "https://telegra.ph/file/806d54c07d0738e549390.png"
+        },
     ]
+    
 }
